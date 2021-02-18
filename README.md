@@ -1,9 +1,6 @@
 ## Hawk and Dove
 ## SER 574: Advanced Software Design
 
-### Screenshot
-<img width="919" alt="HawkDove" src="https://user-images.githubusercontent.com/31400661/77287364-a0fa3a80-6c92-11ea-963d-36cd50c506d5.png">
-
 ### Run Instruction
 1. Built-In: 4:3, Maximize On Play.</br>
 OR </br>
